@@ -1,2 +1,2 @@
-# Assigment2_DSA_171
-Source code Assigment2 HK171 -- (Balance Tree)
+# Assigment_KTLT_172
+Source code Assigment HK171 -- (Kĩ thuật lập trình)
